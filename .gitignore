@@ -1,0 +1,16 @@
+# --- DEPENDENCIES ---
+node_modules/
+jspm_packages/
+.pnp
+.pnp.js
+
+# --- NEXT.JS & BUILD OUTPUTS ---
+node_modules/
+.next/
+out/
+build/
+*.sst
+*.log
+dist/
+.cache/
+.turbo/
